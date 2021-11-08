@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saransuresh10
+- 👋 Hi, I’m @saranya-corezi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on GitHub
